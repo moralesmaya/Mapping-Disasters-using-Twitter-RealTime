@@ -1,0 +1,101 @@
+#,Name,Account Handle,Tweets,Followers,Joined
+1,UNICEF,@UNICEF,"32,900","6,160,000",2009
+2,American Red Cross,@RedCross,"5,203","4,700,000",2007
+3,Save the Children US,@SavetheChildren,"24,100","2,820,000",2008
+4,World Bank,@WorldBank,"32,100","2,420,000",2009
+5,UN Refugee Agency,@Refugees,"42,600","2,160,000",2008
+6,ICRC,@ICRC,"10,400","1,960,000",2009
+7,CDC Emergency,@CDCEmergency,"5,960","1,860,000",2009
+8,World Food Programme,@WFP,"26,000","1,460,000",2009
+9,The Voice of America,@VOANews,"82,200","1,310,000",2008
+10,World Vision,@WorldVision,"5,264","1,190,000",2008
+11,UNDP,@UNDP,"49,900","1,130,000",2009
+12,Doctors Without Borders,@MSF_USA,"20,800","955,000",2008
+13,Samaritan's Purse,@SamaritansPurse,"15,700","877,000",2009
+14,NonprofitOrgs,@NonprofitOrgs,"19,600","849,000",2008
+15,Oxfam International,@Oxfam,"35,500","828,000",2011
+16,Uday Foundation,@udayfoundation,"2,961","655,000",2009
+17,FEMA,@fema,"12,300","628,000",2008
+18,UN Spokesperson,@UN_Spokesperson,"15,100","440,000",2010
+19,UN News Centre,@UN_News_Centre,"20,400","274,000",2010
+20,DFID,@DFID_UK,"18,000","261,000",2009
+21,UNOCHA,@UNOCHA,"18,400","236,000",2009
+22,Global Development,@GdnDevelopment,"25,400","218,000",2010
+23,Helen Clark,@HelenClarkNZ,"40,800","153,000",2010
+24,AfDB_Group,@AfDB_Group,"8,879","143,000",2009
+25,Readygov,@Readygov,"5,153","135,000",2008
+26,Rockefeller Foundation,@RockefellerFdn,"17,300","135,000",2010
+27,Antonio Guterres,@antonioguterres,85,"114,000",2016
+28,Disaster Operations,@NDOCKenya,"3,122","96,500",2001
+29,The Overseas Development Institute,@ODIdev,"13,800","94,400",2009
+30,ReliefWeb,@reliefweb,"17,400","91,500",2009
+31,Christian Aid,@christian_aid,"27,800","83,700",2009
+32,WaterAID UK,@WaterAidUK,"22,600","70,800",2008
+33,IRIN News,@irinnews,"36,800","70,400",2008
+34,ASEAN,@ASEAN,"6,186","70,300",2010
+35,Devex,@devex,"37,000","68,900",2010
+36,Catholic Relief,@CatholicRelief,"13,900","67,200",2008
+37,100 Resilient Cities,@100ResCities,"3,466","66,300",2014
+38,Music for Relief,@MusicForRelief,"6,324","64,200",2008
+39,OECD Development Center,@OECD_Centre,"10,600","62,300",2008
+40,BBC Media Action,@bbcmediaaction,"5,498","61,400",2009
+41,Ludo Bok,@ludobok,"5,432","57,700",2011
+42,EU Humanitarian Aid,@eu_echo,"26,800","50,600",2012
+43,Development Pros,@GuardianGDP,"43,500","49,600",2012
+44,UNISDR,@unisdr,"9,498","49,100",2009
+45,NDMA India,@ndmaindia,"8,797","42,600",2014
+46,Action Aid UK,@ActionAidUK,"23,400","42,100",2008
+47,WaterAid America,@WaterAidAmerica,"7,521","31,500",2009
+48,Aid News,@AidNews,"307,000","31,400",2009
+49,Agenda4Humanity,@agenda4humanity,"10,200","30,300",2014
+50,Thomas Reuters Foundation,@TR_Foundation,"37,800","29,500",2011
+51,DEC,@decappeal,"13,000","27,200",2009
+52,NDRF,@NDRFHQ,"2,142","24,800",2014
+53,Humanitarian Academy,@AcademyHum,"1,385","23,100",2015
+54,Shelter Box,@ShelterBox,"5,332","19,700",2009
+55,Development Gatewat,@DGateway,"12,900","19,600",2009
+56,Kuldip Nar,@kuldipnar,"3,675","18,400",2008
+57,IAEM,@iaem,"5,979","17,200",2008
+58,TechChange,@TechChange,"27,200","16,200",2010
+59,Deliver2030,@deliver203,"6,106","16,100",2012
+60,Action Against Hunger,@ACF_UK,"16,700","13,700",2009
+61,GSMA Mobile4Dev,@GSMAm4d,"7,600","12,800",2012
+62,GE Foundation,@GE_Foundation,"5,457","10,900",2014
+63,Irish Aid,@Irish_Aid,"5,596","10,900",2009
+64,Episocpal Relief,@EpiscopalRelief,"7,795","10,500",2008
+65,NDPTC,@DisasterCTR,"4,009","9,759",2010
+66,Humanity Road,@HumanityRoad,"50,200","9,469",2010
+67,Christain Aid Global,@CA_global,"14,800","8,253",2010
+68,Caroline Kende-Robb,@CarolineKende,"6,927","8,212",2011
+69,Avril Benoit,@avrilbenoit,"4,712","7,872",2009
+70,International Medical Corps UK,@IMC_UK,"8,424","7,713",2012
+71,MapAction,@mapaction,"3,318","7,665",2009
+72,IATI,@IATI_aid,"3,864","6,055",2011
+73,NetHope,@NetHope_org,"4,726","5,604",2008
+74,Nardos Bekele-Thomas,@unnardos,"1,176","5,212",2013
+75,Sustainability Agenda,@sustain_agenda,"4,858","5,157",2016
+76,Global Impact,@charitydotorg,"13,100","4,719",2010
+77,UK Resilience,@UKResilience,"1,025","4,707",2012
+78,Sara Pantuliano,@SaraPantuliano,"3,374","4,535",2010
+79,Operation USA,@OperationUSA,"6,250","4,379",2008
+80,Plan International Asia,@PlanAsia,"14,300","4,260",2009
+81,TTC Mobile,@TTC_Mobile,"5,240","4,252",2009
+82,Aid Worker Daily,@aidworkerdaily,"3,000","4,116",2008
+83,CHS Alliance,@CHS_Alliance,"2,176","4,068",2008
+84,Disaster Tech Lab,@DisasterTechLab,"5,730","3,758",2012
+85,Margareta Wahlstrom,@WahlstromM,367,"3,726",2011
+86,Jo Scheuer,@ScheuerJo,"8,510","3,688",2013
+87,Evidence Aid,@EvidenceAid,"12,400","2,868",2004
+88,Tom Jackson,@tomjacksonca,684,"2,717",2011
+89,WFP Disaster Alerts,@WFP_ADAM,170,"2,697",2014
+90,Robert Glasser,@RobertGlasserUN,938,"2,518",2016
+91,"Irwin Redlener, MD",@IrwinRedlenerMD,"2,601","2,300",2010
+92,ICNA Relief USA,@ICNARelief,"2,598","2,192",2009
+93,High Tech Humanitarian,@HumanTechRev,"4,280","1,553",2015
+94,Scott Jackson,@jacksonscott3,"1,141","1,163",2011
+95,ETCluster,@Itresponse,"2,725","1,152",2010
+96,Manu Gupta,@manugupta2412,"2,223","1,057",2009
+97,Tyler Radford,@TylerSRadford,985,"1,045",2014
+98,Butyl Products Limited,@AID_Butyl_Tweet,449,498,2011
+99,TSF International,@TSF_Intl,313,326,2015
+100,Disaster Medics,@DisasterMedics,225,240,2014
